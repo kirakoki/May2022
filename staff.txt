@@ -1,8 +1,6 @@
 Ersel 0001 M Head of Teaching
 Jenny 0002 F Core Instructor
 Miguel 0003 M Core Instructor
-Martyna 0004 F FrontEnd Instructor
-Ian 0005 M BackEnd Instructor
-Andrea 0006 F BackEnd Instructor
-Jenny 0007 F Tutor
-Sabri 0008 M FrontEnd Instructor 
+Benji 0004 M Core Instructor
+Kem 005 M Backend
+Sabri 0006 M FrontEnd Instructor 
